@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dummy-utube/static/css/main.b08116a6.css",
+    "main.js": "/dummy-utube/static/js/main.f0e7bd09.js",
+    "index.html": "/dummy-utube/index.html",
+    "main.b08116a6.css.map": "/dummy-utube/static/css/main.b08116a6.css.map",
+    "main.f0e7bd09.js.map": "/dummy-utube/static/js/main.f0e7bd09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08116a6.css",
+    "static/js/main.f0e7bd09.js"
+  ]
+}
