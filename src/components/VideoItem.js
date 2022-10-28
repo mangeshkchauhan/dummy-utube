@@ -10,7 +10,7 @@ const VideoItem = ({ video, onVideoSelect }) => {
         alt={video.snippet.title}
       />
       <div className="content">
-        <div className="header">{video.snippet.title}</div>
+        <div className="header" dangerouslySetInnerHTML={{__html: video.snippet.title}}></div>
       </div>
     </div>
   );
